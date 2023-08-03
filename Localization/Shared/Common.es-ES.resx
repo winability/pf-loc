@@ -126,6 +126,12 @@
   <data name="select-file-unlock" xml:space="preserve">
     <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
   </data>
+  <data name="start-over" xml:space="preserve">
+    <value>Comenzar de nuevo...</value>
+  </data>
+  <data name="welcome" xml:space="preserve">
+    <value>Bienvenido a {0}!</value>
+  </data>
   <data name="which-files-encrypt" xml:space="preserve">
     <value>¿Qué archivo(s) proteger con una contraseña?</value>
   </data>
