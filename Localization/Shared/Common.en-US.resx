@@ -129,6 +129,9 @@
   <data name="start-over" xml:space="preserve">
     <value>Start over...</value>
   </data>
+  <data name="want-to-decrypt" xml:space="preserve">
+    <value>I need to unlock a password-protected file</value>
+  </data>
   <data name="want-to-encrypt" xml:space="preserve">
     <value>I want to password-protect file(s)</value>
   </data>
