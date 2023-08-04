@@ -130,7 +130,7 @@
     <value>Start over...</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Welcome to {0}!</value>
+    <value>Welcome to {0}!!</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
     <value>Which file(s) to protect with a password?</value>
