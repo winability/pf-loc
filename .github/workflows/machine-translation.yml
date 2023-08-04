@@ -14,7 +14,7 @@ on:
         default: 'Manual run'
 
 env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.REPO_GITHUB_TOKEN }}
 
 jobs:
   translate:
