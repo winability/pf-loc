@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-    - '**.en.resx'
+    - '**.en-US.resx'
     - '**.razor.en.resx'
   workflow_dispatch:
     inputs:
@@ -35,8 +35,9 @@ jobs:
           subscriptionKey: ${{ secrets.AZURE_TRANSLATOR_SUBSCRIPTION_KEY }}
           endpoint: ${{ secrets.AZURE_TRANSLATOR_ENDPOINT }}
           region: ${{ secrets.AZURE_TRANSLATOR_REGION }}
-          sourceLocale: 'en'
-          toLocales: '["af","ar","az","bg","ca","cs","da","de","el","fa","fi","fr","he","hi","hr","hu","id","it","ja","ko","la","lt","mk","nb","nl","pl","pt","ro","ru","sv","sk","sl","es","sr-Cyrl","sr-Latn","th","tr","uk","vi","zh-Hans","zh-Hant"]'
+          sourceLocale: 'en-US'
+          toLocales: '["es-ES"]'
+          #toLocales: '["af","ar","az","bg","ca","cs","da","de","el","fa","fi","fr","he","hi","hr","hu","id","it","ja","ko","la","lt","mk","nb","nl","pl","pt","ro","ru","sv","sk","sl","es","sr-Cyrl","sr-Latn","th","tr","uk","vi","zh-Hans","zh-Hant"]'
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3.4.1
