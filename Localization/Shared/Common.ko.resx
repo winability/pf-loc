@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="choose-files" xml:space="preserve">
-    <value>Elija los archivos</value>
+    <value>파일을 선택하십시오</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>언어</value>
   </data>
   <data name="main-body-prompt" xml:space="preserve">
-    <value>¿Que te gustaría hacer?</value>
+    <value>무엇을하고 싶으십니까?</value>
   </data>
   <data name="select-file-unlock" xml:space="preserve">
-    <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
+    <value>잠금 해제할 암호로 보호된 파일을 선택합니다.</value>
   </data>
   <data name="start-over" xml:space="preserve">
-    <value>Comenzar de nuevo...</value>
+    <value>다시 시작하다...</value>
   </data>
   <data name="want-to-decrypt" xml:space="preserve">
-    <value>Necesito desbloquear un archivo protegido con contraseña</value>
+    <value>암호로 보호된 파일의 잠금을 해제해야 합니다.</value>
   </data>
   <data name="want-to-encrypt" xml:space="preserve">
-    <value>Quiero proteger con contraseña los archivos</value>
+    <value>파일을 암호로 보호하고 싶습니다</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Bienvenido a {0}!</value>
+    <value>{0}에 오신 것을 환영합니다!</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>¿Qué archivo(s) proteger con una contraseña?</value>
+    <value>비밀번호로 보호할 파일은 무엇입니까?</value>
   </data>
 </root>

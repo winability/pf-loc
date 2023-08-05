@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="choose-files" xml:space="preserve">
-    <value>Elija los archivos</value>
+    <value>Trieu els fitxers</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>Llenguatge</value>
   </data>
   <data name="main-body-prompt" xml:space="preserve">
-    <value>¿Que te gustaría hacer?</value>
+    <value>Què t'agradaria fer?</value>
   </data>
   <data name="select-file-unlock" xml:space="preserve">
-    <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
+    <value>Seleccioneu el fitxer protegit amb contrasenya per desbloquejar:</value>
   </data>
   <data name="start-over" xml:space="preserve">
-    <value>Comenzar de nuevo...</value>
+    <value>Comença de nou...</value>
   </data>
   <data name="want-to-decrypt" xml:space="preserve">
-    <value>Necesito desbloquear un archivo protegido con contraseña</value>
+    <value>Necessito desbloquejar un fitxer protegit amb contrasenya</value>
   </data>
   <data name="want-to-encrypt" xml:space="preserve">
-    <value>Quiero proteger con contraseña los archivos</value>
+    <value>Vull protegir els fitxers amb contrasenya</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Bienvenido a {0}!</value>
+    <value>Benvingut a {0}!</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>¿Qué archivo(s) proteger con una contraseña?</value>
+    <value>Quin(s) fitxer(s) protegir amb una contrasenya?</value>
   </data>
 </root>

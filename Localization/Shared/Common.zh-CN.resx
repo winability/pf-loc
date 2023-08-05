@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="choose-files" xml:space="preserve">
-    <value>Elija los archivos</value>
+    <value>选择文件</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>语言</value>
   </data>
   <data name="main-body-prompt" xml:space="preserve">
-    <value>¿Que te gustaría hacer?</value>
+    <value>你想干什么？</value>
   </data>
   <data name="select-file-unlock" xml:space="preserve">
-    <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
+    <value>选择要解锁的受密码保护的文件：</value>
   </data>
   <data name="start-over" xml:space="preserve">
-    <value>Comenzar de nuevo...</value>
+    <value>重来...</value>
   </data>
   <data name="want-to-decrypt" xml:space="preserve">
-    <value>Necesito desbloquear un archivo protegido con contraseña</value>
+    <value>我需要解锁受密码保护的文件</value>
   </data>
   <data name="want-to-encrypt" xml:space="preserve">
-    <value>Quiero proteger con contraseña los archivos</value>
+    <value>我想用密码保护文件</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Bienvenido a {0}!</value>
+    <value>欢迎来到{0}！</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>¿Qué archivo(s) proteger con una contraseña?</value>
+    <value>要使用密码保护哪些文件？</value>
   </data>
 </root>

@@ -1,0 +1,7 @@
+﻿couldn't make machine-translation.yml to do the work, so updated Q:\VS\ResxTranslator to handle our tasks:
+
+run Q:\VS\ResxTranslator\bin\Debug\ResxTranslator.exe to do automatic translation/update of the *.resx files 
+
+for culture codes, see:
+
+https://www.venea.net/web/culture_code

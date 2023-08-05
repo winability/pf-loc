@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="choose-files" xml:space="preserve">
-    <value>Elija los archivos</value>
+    <value>Choisissez le(s) fichier(s)</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>Langue</value>
   </data>
   <data name="main-body-prompt" xml:space="preserve">
-    <value>¿Que te gustaría hacer?</value>
+    <value>Qu'est-ce que tu aimerais faire?</value>
   </data>
   <data name="select-file-unlock" xml:space="preserve">
-    <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
+    <value>Sélectionnez le fichier protégé par mot de passe à déverrouiller :</value>
   </data>
   <data name="start-over" xml:space="preserve">
-    <value>Comenzar de nuevo...</value>
+    <value>Recommencer...</value>
   </data>
   <data name="want-to-decrypt" xml:space="preserve">
-    <value>Necesito desbloquear un archivo protegido con contraseña</value>
+    <value>J'ai besoin de déverrouiller un fichier protégé par mot de passe</value>
   </data>
   <data name="want-to-encrypt" xml:space="preserve">
-    <value>Quiero proteger con contraseña los archivos</value>
+    <value>Je veux protéger le(s) fichier(s) par mot de passe</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Bienvenido a {0}!</value>
+    <value>Bienvenue à {0} !</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>¿Qué archivo(s) proteger con una contraseña?</value>
+    <value>Quel(s) fichier(s) protéger avec un mot de passe ?</value>
   </data>
 </root>

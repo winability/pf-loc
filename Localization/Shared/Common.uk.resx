@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="choose-files" xml:space="preserve">
-    <value>Elija los archivos</value>
+    <value>Виберіть файл(и)</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>Мова</value>
   </data>
   <data name="main-body-prompt" xml:space="preserve">
-    <value>¿Que te gustaría hacer?</value>
+    <value>Чим би ти хотів зайнятись?</value>
   </data>
   <data name="select-file-unlock" xml:space="preserve">
-    <value>Seleccione el archivo protegido con contraseña para desbloquear:</value>
+    <value>Виберіть захищений паролем файл для розблокування:</value>
   </data>
   <data name="start-over" xml:space="preserve">
-    <value>Comenzar de nuevo...</value>
+    <value>Почати з початку...</value>
   </data>
   <data name="want-to-decrypt" xml:space="preserve">
-    <value>Necesito desbloquear un archivo protegido con contraseña</value>
+    <value>Мені потрібно розблокувати файл, захищений паролем</value>
   </data>
   <data name="want-to-encrypt" xml:space="preserve">
-    <value>Quiero proteger con contraseña los archivos</value>
+    <value>Я хочу захистити файл(и) паролем</value>
   </data>
   <data name="welcome" xml:space="preserve">
-    <value>Bienvenido a {0}!</value>
+    <value>Ласкаво просимо до {0}!</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>¿Qué archivo(s) proteger con una contraseña?</value>
+    <value>Які файли захистити паролем?</value>
   </data>
 </root>
