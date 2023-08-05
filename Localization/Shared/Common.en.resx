@@ -142,6 +142,6 @@
     <value>Welcome to {0}!</value>
   </data>
   <data name="which-files-encrypt" xml:space="preserve">
-    <value>Which file(s) to protect with a password?</value>
+    <value>Which file(s) to protect with a password???</value>
   </data>
 </root>
